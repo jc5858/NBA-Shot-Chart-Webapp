@@ -24,7 +24,7 @@ def homepage():
     # Displaying the details on the homepage
     st.title("NBA Player Shot Chart")
     st.write("Created by: Jason Chien(jc5858)")  # Replace [Your Name] with your name
-    st.write("Course Title: Python for the MBAs")  # Replace [Course Title] with your course title
+    st.write("Course Title: Sports Analytics, Columbia University")  # Replace [Course Title] with your course title
     st.write("""
     Introduction:
     This webapp provides a visual representation of NBA player shot charts. By selecting a team and player, users can view where shots were made or missed on the basketball court.
